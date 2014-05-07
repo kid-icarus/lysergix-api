@@ -1,0 +1,15 @@
+{
+  "name": "lysergix-api",
+  "version": "0.0.0",
+  "description": "A Smiley Face API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "author": "Ryan Kois",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.1.1",
+    "lysergix": "0.0.5"
+  },
+}
