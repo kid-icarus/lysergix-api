@@ -1,6 +1,6 @@
 {
   "name": "lysergix-api",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A Smiley Face API",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.1.1",
-    "lysergix": "0.0.5"
+    "lysergix": "~0.0.5"
   }
 }
